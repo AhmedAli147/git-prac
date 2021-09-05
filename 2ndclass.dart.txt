@@ -32,6 +32,13 @@ int num1 = 2;
   int r2 = 2;
   int output = r1%r2;
   print (output);
+  
+  // increment Example
+  // Post increment
+  
+  var tom = 1;
+  var jerry = tom++;
+  print(jerry)
 
   }
 

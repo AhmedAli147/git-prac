@@ -16,6 +16,11 @@ int num1 = 2;
   double num2 = 2.2222;
   num result = (num1 ~/ num2);
   print (result);
+  
+  var one = 100;
+  var two =200;
+  bool check = two<one;
+  print (check);
 
   }
 

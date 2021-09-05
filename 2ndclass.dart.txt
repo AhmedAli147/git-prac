@@ -38,7 +38,7 @@ int num1 = 2;
   
   var tom = 1;
   var jerry = tom++;
-  print(jerry)
+  print(jerry);
 
   }
 

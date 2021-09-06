@@ -1,26 +1,37 @@
 void main() {
+//variable Example
   var first = "Hello World";
   print(first);
-  
+
+//int Example  
   int a = 2;
   int b = 4;
   int c = a+b;
   print (c)
 
+//int,double,num Example
  int abc = 2;
   double xyz = 2.2222;
   num result = (abc/xyz);
   print (result);
 
+//int,double,num Example
 int num1 = 2;
   double num2 = 2.2222;
   num result = (num1 ~/ num2);
   print (result);
-  
+
+//bool Exmaple 
   var one = 100;
   var two =200;
   bool check = two<one;
   print (check);
+
+//   Remainder Example
+ int r1 = 11;
+  int r2 = 2;
+  int output = r1%r2;
+  print (output);
 
   }
 

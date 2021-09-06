@@ -7,5 +7,15 @@ void main() {
   int c = a+b;
   print (c)
 
+ int abc = 2;
+  double xyz = 2.2222;
+  num result = (abc/xyz);
+  print (result);
+
+int num1 = 2;
+  double num2 = 2.2222;
+  num result = (num1 ~/ num2);
+  print (result);
+
   }
 

@@ -40,5 +40,56 @@ int num1 = 2;
   var jerry = tom++;
   print(jerry);
 
+//pre increment
+  var car = 10 ;
+  var cars = ++car;
+  print (cars);
+
+ //post derement
+  var house = 10 ;
+  var houses = --house;
+  print (houses);
+  
+  //post decrement
+  var cow = 20;
+  var cows = cow--;
+  print (cows);
+
+// if else and else where
+  var a1 = 200;
+  var b2 = 300;
+  if (a1>b2){
+    print ("false"); 
+  }
+  
+  else if (b2>a1){
+    print("true");
+  
+  }
+else{
+
+}
+
+// if else and elseif and else
+  var a1 = 100;
+  var b2 = 100;
+  if (a1>b2){
+    print ("false"); 
+  }
+  
+  
+  
+  else if (b2>a1){
+    print("true");
+  
+  }
+  
+  else{
+    print("error");
+  }
+  
+ 
+  
+ 
   }
 
